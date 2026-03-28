@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Jong! <br/> <a href="https://www.linkedin.com/in/jake-chun-a65b0b154/">an IT Professional!</a>
+
+<h2>👨‍💻 Home Lab Projects:</h2>
+
+ Active Directory Home Lab (https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certifications </h2>
+CompTIA A+/Network+/Security+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
 
 <!--
-**jeebers93/jeebers93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
