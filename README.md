@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
- Active Directory Home Lab (https://github.com/joshmadakor1/Algorithms-Practice)
+ Active Directory Home Lab (https://github.com/jeebers93/Active-Directory)
 
 <h2> Certifications </h2>
 CompTIA A+/Network+/Security+
