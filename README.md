@@ -6,6 +6,8 @@
 
  Azure Sentinel/SIEM (https://github.com/jeebers93/Azure-Sentinel-SIEM)
 
+ osTicket Docker Lab (https://github.com/jeebers93/osTicket-Docker-Lab)
+
 <h2> Certifications </h2>
 CompTIA A+/Network+/Security+
 
