@@ -12,6 +12,8 @@
 
  Docker Kubernetes Lab (https://github.com/jeebers93/Docker-Kubernetes-Lab)
 
+ pi-hole on Docker (https://github.com/jeebers93/Pi-hole-on-Docker)
+
 <h2> Certifications </h2>
 CompTIA A+/Network+/Security+
 
