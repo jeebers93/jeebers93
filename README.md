@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
+ Bash Scripting (https://github.com/jeebers93/Basic-Bash-Scripting)
+ 
  Active Directory Home Lab (https://github.com/jeebers93/Active-Directory)
 
  Azure Sentinel/SIEM (https://github.com/jeebers93/Azure-Sentinel-SIEM)
