@@ -16,6 +16,8 @@
 
  pi-hole on Docker (https://github.com/jeebers93/Pi-hole-on-Docker)
 
+ heimdall dashboard on docker (https://github.com/jeebers93/Heimdall-Dashboard)
+
 <h2> Certifications </h2>
 CompTIA A+/Network+/Security+
 
